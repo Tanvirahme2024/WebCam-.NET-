@@ -1,0 +1,34 @@
+E:\New folder\WebCam\bin\Debug\WebCam.exe.config
+E:\New folder\WebCam\bin\Debug\WebCam.exe
+E:\New folder\WebCam\bin\Debug\WebCam.pdb
+E:\New folder\WebCam\bin\Debug\AForge.dll
+E:\New folder\WebCam\bin\Debug\AForge.Video.DirectShow.dll
+E:\New folder\WebCam\bin\Debug\AForge.Video.dll
+E:\New folder\WebCam\bin\Debug\AForge.xml
+E:\New folder\WebCam\bin\Debug\AForge.Video.xml
+E:\New folder\WebCam\bin\Debug\AForge.Video.DirectShow.xml
+E:\New folder\WebCam\obj\Debug\WebCam.csproj.AssemblyReference.cache
+E:\New folder\WebCam\obj\Debug\WebCam.Form1.resources
+E:\New folder\WebCam\obj\Debug\WebCam.Properties.Resources.resources
+E:\New folder\WebCam\obj\Debug\WebCam.csproj.GenerateResource.cache
+E:\New folder\WebCam\obj\Debug\WebCam.csproj.CoreCompileInputs.cache
+E:\New folder\WebCam\obj\Debug\WebCam.csproj.Up2Date
+E:\New folder\WebCam\obj\Debug\WebCam.exe
+E:\New folder\WebCam\obj\Debug\WebCam.pdb
+D:\Downloads\WebCam\WebCam\bin\Debug\WebCam.exe.config
+D:\Downloads\WebCam\WebCam\bin\Debug\WebCam.exe
+D:\Downloads\WebCam\WebCam\bin\Debug\WebCam.pdb
+D:\Downloads\WebCam\WebCam\bin\Debug\AForge.dll
+D:\Downloads\WebCam\WebCam\bin\Debug\AForge.Video.DirectShow.dll
+D:\Downloads\WebCam\WebCam\bin\Debug\AForge.Video.dll
+D:\Downloads\WebCam\WebCam\bin\Debug\AForge.xml
+D:\Downloads\WebCam\WebCam\bin\Debug\AForge.Video.xml
+D:\Downloads\WebCam\WebCam\bin\Debug\AForge.Video.DirectShow.xml
+D:\Downloads\WebCam\WebCam\obj\Debug\WebCam.csproj.AssemblyReference.cache
+D:\Downloads\WebCam\WebCam\obj\Debug\WebCam.Form1.resources
+D:\Downloads\WebCam\WebCam\obj\Debug\WebCam.Properties.Resources.resources
+D:\Downloads\WebCam\WebCam\obj\Debug\WebCam.csproj.GenerateResource.cache
+D:\Downloads\WebCam\WebCam\obj\Debug\WebCam.csproj.CoreCompileInputs.cache
+D:\Downloads\WebCam\WebCam\obj\Debug\WebCam.csproj.Up2Date
+D:\Downloads\WebCam\WebCam\obj\Debug\WebCam.exe
+D:\Downloads\WebCam\WebCam\obj\Debug\WebCam.pdb
